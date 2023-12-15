@@ -1,4 +1,4 @@
 # SpotifyApiPlays
 
-Playing with Spotify Web Api
+Playing with Spotify Web API
 
